@@ -1,5 +1,8 @@
 This is a NextJS app that has two pages:
-1st page has button to open a popup which is built using server components- fetches the data from a public api(https://jsonplaceholder.typicode.com/posts) to show popup content.
+
+1st page has button to open a popup which is built using server components- 
+fetches the data from a public api(https://jsonplaceholder.typicode.com/posts) 
+to show popup content.
 2nd page is animation that is done using ThreeJS
 
 ### View the final ouput
