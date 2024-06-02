@@ -21,6 +21,6 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/app/components/PopupContent.tsx", "src/app/components/PopupContent.tsx"],
-  "exclude": ["node_modules"]
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "**/*.js", ".next/types/**/*.ts", "src/app/components/PopupContent.tsx", "src/app/components/PopupContent.tsx"],
+  "exclude": ["node_modules", ".next", ".vercel", "out"]
 }
