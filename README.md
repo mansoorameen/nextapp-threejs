@@ -1,3 +1,5 @@
+NextJS built with Server Components to display Popup
+
 This is a NextJS app that has two pages:
 
 1st page has button to open a popup which is built using server components- 
